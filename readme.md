@@ -39,7 +39,7 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 <br><br>
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([https://github.com/](https://github.com/TheTIW/UV-Static/main/LICENSE).
 
 
 ### Disclamer
