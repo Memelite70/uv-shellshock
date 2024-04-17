@@ -1,3 +1,6 @@
+<h1>Shell Shockers emulated through Ultraviolet Static, which is shown below.</h1>
+
+
 # TIW Static UV
 
 Modified Version of the <a href="https://github.com/titaniumnetwork-dev/Ultraviolet-App" target="blank">Ultraviolet</a> backend. This modification changes the proxy **CONFIG**, making it work on static pages. 
